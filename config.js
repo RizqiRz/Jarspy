@@ -32,19 +32,19 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.rowner = [
-  ['6282148864989', 'Jarsépay', true]
+  ['6283865752867', 'Rz', true]
 ]
 
 global.owner = [
-  ['6282148864989', 'Jarsépay', true]
+  ['6283865752867', 'Rz', true]
 ]
 global.mods = ['']
-global.prems = ['6282148864989', '6287763792950'] // add it manually for permanent premium users
+global.prems = ['6283865752867', '6283854567705'] // add it manually for permanent premium users
 
 global.idgc = '120363041509832346@g.us'
 
 global.lolkey = 'GataDios'
-global.lann = 'APIKEYMU' // register to https://api.betabotz.eu.org
+global.lann = 'JEedMZY5' // register to https://api.betabotz.eu.org
 
 global.APIs = {
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -65,25 +65,25 @@ global.APIKeys = {
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.namaowner = 'Jarsépay' // owner name
-global.nomorowner = '6282148864989' // owner number
-global.namabot = 'Jarspy' // bot name
-global.nomorbot = '6287841972915' // bot number
+global.namaowner = 'Rz' // owner name
+global.nomorowner = '6283865752867' // owner number
+global.namabot = 'Mz Ai' // bot name
+global.nomorbot = '6285600164146' // bot number
 
-global.wmtitle = 'Jarspy Bot' // title watermark is at the top
-global.wmbody = 'B y  J a r s é p a y' // body watermark is under the title
+global.wmtitle = 'Mz Ai' // title watermark is at the top
+global.wmbody = 'B y  RZ06' // body watermark is under the title
 global.thumbs = 'https://telegra.ph/file/476dabd35c800091e0357.jpg' // is this the main thumbnail
 // see the example use here https://telegra.ph/file/2042154c2ad625bb23c84.jpg
 
-global.sig = 'https://instagram.com/jarsepay' // your instagram
-global.sgh = 'https://github.com/jarsepay' // your github
-global.sgc = 'https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE' // your whatsapp group link
-global.sdc = 'https://s.id/aeonnixity' // your discord server (optional)
-global.sid = 'https://s.id/jarspy' // change it to anything, must be a https://... link
+global.sig = 'https://instagram.com/rizqirz21' // your instagram
+global.sgh = 'https://github.com/RizqiRz' // your github
+global.sgc = 'https://chat.whatsapp.com/DqMmVlDzaIH7JASaKXjbUY' // your whatsapp group link
+global.sdc = 'https://s.id/yntkts' // your discord server (optional)
+global.sid = 'https://s.id/yntkts' // change it to anything, must be a https://... link
 
 // sticker packname and author name
-global.packname = 'Contact Support: +62 821-4886-4989'
-global.author = 'By Jarsépay'
+global.packname = 'Mz Ai'
+global.author = 'By RZ06'
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
